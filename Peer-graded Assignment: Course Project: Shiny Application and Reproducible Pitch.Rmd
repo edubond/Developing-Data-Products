@@ -1,0 +1,51 @@
+---
+title: "Peer-graded Assignment: Course Project: Shiny Application and Reproducible Pitch"
+date: 1 October 2018
+output: ioslides_presentation
+---
+
+***
+
+**FINANCIAL SCREENER USING BOLLINGER BANDS**
+
+In this assignment we create an interactive financial instruments screener that uses Bollinger Bands. 
+The data comes from Yahoo. We used the shiny and the quantmod libraries. 
+![Image](Screenshot_2018-10-01 Financial instruments screener using Bollinger Bands3.png)
+
+
+***
+The App has on the top a chart with volumes of the financial instruments.
+Below there are some widgets that are used to conduct the analysis.
+
+**1. Symbol of a financial instrument.** You can type in the financial instruments your are interested of. SPY is the default instrument.
+
+**2. Date range.** You can choose the interval of time you want to analyze.
+
+**3. Type of chart.** You can choose the type of chart you prefer between Candlechart, Linearchart, Barchart.
+
+**4. Y axis option.** You can plot y axis on log scale. 
+
+
+***
+
+
+**5. Bollinger Bands.** You can choose if use or not Bollinger Bands. There is a link to wikipedia too if you want examine it in depth.
+
+**6. Numbers of periods.** The number of periods to use to compute the Bollinger Bands.
+
+**7. Number of standard deviations.** The number of s.d to use to compute the Bollinger Bands.
+
+**8. Type of moving average.** The type of moving average to use for the Bollinger Bands. You can choose between Simple moving average and Exponential moving average.
+
+**9. Indicator to draw.** The type of indicator to draw in the chart. You can choose between Bollinger Bands, Bollinger %b and Bollinger Bands Width.
+
+
+***
+
+**Link to the github project source code:**
+
+https://github.com/edubond/Developing-Data-Products
+
+**Link to the developed app:**
+
+https://edbond.shinyapps.io/fisbb/
