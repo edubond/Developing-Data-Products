@@ -16,3 +16,7 @@ https://edbond.shinyapps.io/fisbb/
 **Link to the app slides:**
 
 http://rpubs.com/edbond/424772
+
+**Link to the app slides in R presentation:**
+
+http://rpubs.com/edbond/424779
