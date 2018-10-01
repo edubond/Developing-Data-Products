@@ -12,3 +12,7 @@ The data comes from Yahoo. We used the shiny and the quantmod libraries.
 **Link to the developed app:**
 
 https://edbond.shinyapps.io/fisbb/
+
+**Link to the app slides:**
+
+http://rpubs.com/edbond/424772
