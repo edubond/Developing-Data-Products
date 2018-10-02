@@ -19,4 +19,4 @@ http://rpubs.com/edbond/424772
 
 **Link to the app slides in R presentation:**
 
-http://rpubs.com/edbond/424779
+https://rpubs.com/edbond/425175
